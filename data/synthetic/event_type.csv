@@ -1,0 +1,6 @@
+event_type_id,event_code,event_name,is_exception
+1,PICKUP,Shipment picked up,False
+2,DEPARTED,Departed origin facility,False
+3,ARRIVED,Arrived destination facility,False
+4,DELIVERED,Shipment delivered,False
+5,DELAY,Shipment delayed,True

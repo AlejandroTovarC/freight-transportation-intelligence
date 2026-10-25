@@ -1,0 +1,13 @@
+customer_id,effective_from,effective_to,segment,credit_tier
+2001,2024-11-02,,Growth,A
+2002,2025-01-20,,Core,A
+2003,2024-03-07,,Transactional,B
+2004,2024-01-31,,Transactional,C
+2005,2024-07-21,,Growth,A
+2006,2025-05-19,,Growth,B
+2007,2024-02-07,,Core,C
+2008,2024-11-26,,Growth,C
+2009,2025-05-31,,Strategic,C
+2010,2025-09-20,,Core,C
+2011,2024-11-19,,Core,A
+2012,2025-09-17,,Transactional,B

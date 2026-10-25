@@ -1,0 +1,13 @@
+carrier_id,carrier_name,scac_code,carrier_type,safety_rating,is_active
+3001,Smith Logistics,HYRF,Contract,Satisfactory,True
+3002,Nguyen Logistics,FAIG,For-Hire,Conditional,True
+3003,Smith Logistics,WIRK,Regional,Satisfactory,True
+3004,Hickman Logistics,DDTO,Regional,Conditional,True
+3005,Koch Logistics,LPJZ,For-Hire,Conditional,True
+3006,Decker Logistics,MTWD,For-Hire,Conditional,True
+3007,Parker Logistics,KBJZ,Regional,Satisfactory,True
+3008,Brown Logistics,ZWAS,Regional,Conditional,True
+3009,Humphrey Logistics,TTIH,For-Hire,Satisfactory,True
+3010,Arroyo Logistics,ASSZ,For-Hire,Conditional,True
+3011,Miller Logistics,XWHQ,Regional,Satisfactory,True
+3012,Tucker Logistics,DTOU,Regional,Satisfactory,True
