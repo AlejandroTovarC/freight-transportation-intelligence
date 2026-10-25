@@ -1,0 +1,5 @@
+charge_type_id,charge_code,charge_name
+1,100,Linehaul
+2,200,Fuel surcharge
+3,300,Handling
+4,400,Accessorial
